@@ -2,6 +2,9 @@
 
 Bocce AI Strategist is a React-based web application providing a unified Kinematic and Monte Carlo analysis engine for the sport of Bocce. Designed with a heavy emphasis on accessibility, this tool is built for Special Olympics athletes and their coaches to be used directly on the court via an iPad or smartphone.
 
+![Bocce AI Strategist Preview](./bocce_app.JPG)
+
+
 ## 🌟 Key Features
 
 *   **Accessible "Tap-to-Drop" Interface:** Completely built without drag-and-drop mechanics. Users can simply tap to select a ball and tap the canvas to place it, ensuring frictionless usability for those with limited fine motor control.
